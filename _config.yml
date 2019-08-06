@@ -2,4 +2,4 @@ title: JupyterHub and BinderHub Helm charts for Kubernetes
 description: This repository stores Helm chart tarballs for BinderHub and JupyterHub.  Actual development of the Helm charts takes place in the BinderHub and Zero to JupyterHub repos.
 
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
